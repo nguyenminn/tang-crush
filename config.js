@@ -1,4 +1,4 @@
-const CONFIG = { 27-08 <3
+const CONFIG = { 
     introTitle: 'Gửi anh!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
